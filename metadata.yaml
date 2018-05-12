@@ -1,0 +1,28 @@
+_repo: The-Angel-of-Thought-and-Other-PoemsImpressions-from-Old-Masters_27275
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murphy, Ethel Allen
+    gutenberg_agent_id: '32587'
+    url: http://www.gutenberg.org/2009/agents/32587
+description: ''
+gutenberg_issued: '2008-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27275'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+- !lcsh 'Angels in art'
+- !lcsh 'Mary, Blessed Virgin, Saint -- Art'
+title: 'The Angel of Thought and Other Poems
+
+  Impressions from Old Masters'
+url: http://www.gutenberg.org/ebooks/27275
